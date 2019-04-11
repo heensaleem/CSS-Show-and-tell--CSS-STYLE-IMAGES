@@ -1,0 +1,2 @@
+# CSS-Show-and-tell--CSS-STYLE-IMAGES
+Styling an images using CSS works exactly the same way as styling any element using the Box Model of padding, borders and margins.  There are many ways to set style in images which are listed below:  Thumbnail images, Rounded images, Responsive Images, Transparent Image and  Center an Image. Here is the link to understand more about how to style image https://www.w3schools.com/Css/css3_images.asp
