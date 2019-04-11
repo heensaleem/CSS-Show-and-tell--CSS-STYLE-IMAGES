@@ -1,0 +1,44 @@
+*{
+    background-color: antiquewhite;
+}
+
+#rounded_images {
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+  }
+
+#circled_images {
+        border-radius: 30%;
+        padding: 5px;
+        width: 150px;
+      
+  }
+ #thumbnail_images {
+  border: 5px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  width: 150px;
+ } 
+ #responsive_images{
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    width: 150px;
+ }
+ #center_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+ }
+ h3 {
+     color: chocolate;
+ }
+ p {
+     color: darkcyan;
+ }
+ h2 {
+     color: crimson;
+ }
+ 
